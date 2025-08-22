@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
-  "homepage": "https://tehisaru.github.io/Base-Reaction-v10",
+  "homepage": "https://tehisaru.github.io/Base-Reaction-1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

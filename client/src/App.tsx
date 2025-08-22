@@ -6,7 +6,7 @@ import NotFound from "./pages/not-found";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Base-Reaction-1.0/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/chain-reaction" element={<ClassicMode />} />

@@ -14,7 +14,7 @@ export default defineConfig({
     runtimeErrorOverlay(),
     glsl(),
   ],
-  base: "/Base-Reaction-v10/",
+  base: "/Base-Reaction-1.0/",
   server: {
     host: "0.0.0.0",
     port: 5000,
